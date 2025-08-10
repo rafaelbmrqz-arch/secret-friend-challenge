@@ -4,7 +4,7 @@ Una aplicación web para organizar sorteos de "Amigo Secreto" de forma divertida
 
 ##  Descripción
 
-Este proyecto permite agregar nombres de participantes y realizar un sorteo aleatorio para asignar un amigo secreto a cada uno. Está desarrollado como parte de un reto práctico para mejorar habilidades en JavaScript, HTML y CSS.
+Este proyecto permite agregar nombres de participantes y realizar un sorteo aleatorio para asignar un amigo secreto a cada uno. 
 
 ##  Funcionalidades
 
