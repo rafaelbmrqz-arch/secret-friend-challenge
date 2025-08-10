@@ -1,23 +1,27 @@
-# Amigo Secreto
+#  Secret Friend Challenge
 
-Este es un proyecto sencillo para organizar un sorteo de amigo secreto. La idea es poder escribir nombres, mostrarlos en una lista y luego hacer un sorteo aleatorio para elegir a alguien.
+Una aplicación web para organizar sorteos de "Amigo Secreto" de forma divertida y sencilla.
 
-## Descripción
+##  Descripción
 
-La aplicación permite:
+Este proyecto permite agregar nombres de participantes y realizar un sorteo aleatorio para asignar un amigo secreto a cada uno. Está desarrollado como parte de un reto práctico para mejorar habilidades en JavaScript, HTML y CSS.
 
-- Agregar nombres a una lista
-- Ver la lista actualizada
-- Sortear un nombre al azar
+##  Funcionalidades
 
-Está pensada como una práctica para aprender a usar HTML, CSS y JavaScript.
+-  Agregar participantes
+-  Sorteo aleatorio sin repeticiones
+-  Validación de nombres duplicados y campos vacíos
+-  Reinicio automático del sorteo
+-  Interfaz intuitiva y amigable
 
-## Cómo usar
+##  Tecnologías usadas
 
-1. Escribe el nombre de una persona en el campo de texto.
-2. Haz clic en el botón para agregarlo a la lista.
-3. Cuando ya estén todos los nombres, haz clic en el botón de sorteo.
-4. Se mostrará el nombre elegido.
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-## Archivos del proyecto
+##  Cómo usarlo
 
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/rafaelbmrqz-arch/secret-friend-challenge.git
